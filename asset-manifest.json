@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/personality-recognition/static/css/main.62bfd067.chunk.css",
+    "main.js": "/personality-recognition/static/js/main.59b9a915.chunk.js",
+    "main.js.map": "/personality-recognition/static/js/main.59b9a915.chunk.js.map",
+    "runtime-main.js": "/personality-recognition/static/js/runtime-main.4cc2121b.js",
+    "runtime-main.js.map": "/personality-recognition/static/js/runtime-main.4cc2121b.js.map",
+    "static/css/2.267ffeee.chunk.css": "/personality-recognition/static/css/2.267ffeee.chunk.css",
+    "static/js/2.19cfbe63.chunk.js": "/personality-recognition/static/js/2.19cfbe63.chunk.js",
+    "static/js/2.19cfbe63.chunk.js.map": "/personality-recognition/static/js/2.19cfbe63.chunk.js.map",
+    "static/js/3.15f661bb.chunk.js": "/personality-recognition/static/js/3.15f661bb.chunk.js",
+    "static/js/3.15f661bb.chunk.js.map": "/personality-recognition/static/js/3.15f661bb.chunk.js.map",
+    "index.html": "/personality-recognition/index.html",
+    "static/css/2.267ffeee.chunk.css.map": "/personality-recognition/static/css/2.267ffeee.chunk.css.map",
+    "static/css/main.62bfd067.chunk.css.map": "/personality-recognition/static/css/main.62bfd067.chunk.css.map",
+    "static/js/2.19cfbe63.chunk.js.LICENSE.txt": "/personality-recognition/static/js/2.19cfbe63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cc2121b.js",
+    "static/css/2.267ffeee.chunk.css",
+    "static/js/2.19cfbe63.chunk.js",
+    "static/css/main.62bfd067.chunk.css",
+    "static/js/main.59b9a915.chunk.js"
+  ]
+}
